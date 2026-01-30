@@ -1,5 +1,5 @@
 # coding-practice
-java practice programs and patterns
+java practice programs 
 
 
 
